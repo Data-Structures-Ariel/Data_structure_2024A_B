@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e33c6b9-6012-4a05-8442-f2468d12e19e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ZzW54yHxDxXNNn5OMq8cjYa2ox" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Les02.MainNode" />
+      <module name="Data_structure_2024A_B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Les02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainNode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e33c6b9-6012-4a05-8442-f2468d12e19e" name="Changes" comment="" />
+      <created>1703425203257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703425203257</updated>
+      <workItem from="1703425204590" duration="13000" />
+      <workItem from="1703425401021" duration="41000" />
+      <workItem from="1703661702138" duration="119000" />
+      <workItem from="1704018966464" duration="7696000" />
+      <workItem from="1704265947032" duration="15000" />
+      <workItem from="1704657731362" duration="262000" />
+      <workItem from="1705233636431" duration="265000" />
+      <workItem from="1705477644865" duration="158000" />
+      <workItem from="1705477890328" duration="27000" />
+      <workItem from="1706267612590" duration="94000" />
+      <workItem from="1706436635923" duration="18000" />
+      <workItem from="1706450329059" duration="202000" />
+      <workItem from="1706861788781" duration="23000" />
+      <workItem from="1707137814541" duration="532000" />
+      <workItem from="1707323243218" duration="10000" />
+      <workItem from="1707835483915" duration="69000" />
+      <workItem from="1707925403209" duration="9000" />
+      <workItem from="1707925441645" duration="9000" />
+      <workItem from="1708267708395" duration="52000" />
+      <workItem from="1708675632659" duration="23000" />
+      <workItem from="1709903190908" duration="249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
